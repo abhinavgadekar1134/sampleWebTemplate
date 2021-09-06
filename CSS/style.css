@@ -1,0 +1,88 @@
+.maindiv{
+	padding-left: auto;
+	padding-right: auto;
+	padding-bottom: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-image: url(Images/texture2.jpg);
+}
+.center {
+	position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.img1{
+  margin-left: auto ;
+  margin-right: auto;
+  width: 70%;
+  height: 50%;
+}
+
+.rpp{
+	align-content: center;
+
+}
+body{
+	/*background: linear-gradient(-25DEG,#6130e6,#30dfe6,#a330e6,#e63042);*/
+	/*background: linear-gradient(-35deg,#f23838,#4143d1,#5b5df5,#38f238,#8687f7,#a5a6fa,#f74557);*/	
+  background: linear-gradient(-25DEG,#dbffe5,#ffe8f1,#e1e5fc,#ffedf4,#c2ffd2);
+}  
+.question-size{
+	font-size: 30px;
+
+}
+.qua-par{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.hr_1{
+	border-top: 3px dotted;
+}
+.hr_2{
+	border-bottom: 3px dashed;
+	height: 1px;
+	width: 20%;
+}
+.hr_3{
+	border-left: 5px dotted;
+	border-top: none;
+	height: 50px;
+}
+.hr_4{
+	border-right: 5px dotted;
+	border-left: none;
+  border-top: none;
+	height: 50px;
+}
+.bottom{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: auto ;
+	height: auto;
+	width: auto;
+	background: linear-gradient(-45deg,#EE7752,#e630cd,#E73C7E,#3039e6);
+  box-sizing: 10px;
+}
+.bottom_a{
+	margin-top: 1%;
+	color: black;
+	font-weight: 1000;
+}
+.p_question{
+  color: green;
+}
+figcaption{
+	font-size: 10px;
+}
+.links{
+	font-size: 20px;
+}
+.youtube_sophia{ 
+	width: 720px;
+	height: 415px;
+}
